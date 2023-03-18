@@ -35,19 +35,19 @@ The breast cancer classification project using neural network and deep learning 
 ![image](https://user-images.githubusercontent.com/90462533/225627905-368bbdbe-8ab2-40e0-8744-503c0600d4b0.png)
 
 
-✅Building application using intel oneDAL:The Intel oneAPI Data Analytics Library (oneDAL) contributes to the acceleration of big data analysis by providing highly optimised algorithmic building blocks for all phases of data analytics (preprocessing, transformation, analysis, modelling, validation, and decision making) in batch, online, and distributed processing modes of computation.The library optimizes data ingestion along with algorithmic computation to increase throughput and scalability.
+✅Building application using intel oneDAL:The Intel oneAPI Data Analytics Library (oneDAL) and Deep Neural Network (oneDNN) contributes to the acceleration of big data analysis and deep learning by providing highly optimised algorithmic building blocks for all phases of data analytics (preprocessing, transformation, analysis, modelling, validation, and decision making) in batch, online, and distributed processing modes of computation.The library optimizes data ingestion along with algorithmic computation to increase throughput and scalability.
 
 ✅Understanding of the data: You would have learned how to preprocess and clean the data, as well as how to handle missing values and categorical variables. You may also have conducted exploratory data analysis to gain insights into the relationships between the variables.
 
-✅Selection of appropriate algorithms: You would have learned how to select appropriate machine learning algorithms for the given problem. For example, logistic regression may be useful for binary classification problems, while decision trees may be better suited for multiclass problems.
+✅Selection of appropriate algorithms: You would have learned how to select appropriate machine learning algorithms for the given problem.
 
-✅Machine Learning: I likely learned about different machine learning algorithms and how they can be applied to predict cardiovascular disease and make recommendations for patients.
+✅Machine Learning: I likely learned about different machine learning and deep learning algorithms and how they can be applied to classify breast cancer tumors.
 
 ✅Data Analysis: I likely gained experience in collecting and analyzing large amounts of data, including historical data, to train our machine learning models.
 
 ✅Comparison of model performance: You would have learned how to compare the performance of different models using appropriate statistical tests or visualizations. This can help you choose the best model for the given problem.
 
-✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as medical science, machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
+✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as medical science, machine learning, deep learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
 
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
 Overall, building a cancer classification application is a challenging and rewarding experience that requires technical expertise.
